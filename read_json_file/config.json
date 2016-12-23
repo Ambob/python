@@ -1,0 +1,16 @@
+[
+	{"url":{
+			"url":"temp.hbd.so",
+			"port":"9739",
+			"ip":"1"
+			}
+	},
+	{"gprs":{
+			"open":"true"
+			}
+	},
+	{"rf":{
+			"open":"true"
+			}
+	}
+]
